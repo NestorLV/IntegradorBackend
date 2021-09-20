@@ -1,4 +1,4 @@
-package com.example.ExamenFinalBackend;
+package com.Ixia.ExamenFinalBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
